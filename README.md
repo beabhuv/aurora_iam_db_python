@@ -1,8 +1,5 @@
 # aurora-iam-db
 
-[![PyPI](https://img.shields.io/pypi/v/aurora-iam-db.svg)](https://pypi.org/project/aurora-iam-db/)
-[![GitHub](https://img.shields.io/github/license/YOUR_USERNAME/aurora-iam-db)](https://github.com/YOUR_USERNAME/aurora-iam-db)
-[![CI](https://github.com/YOUR_USERNAME/aurora-iam-db/actions/workflows/test.yml/badge.svg)](https://github.com/YOUR_USERNAME/aurora-iam-db/actions)
 
 A lightweight Python utility for securely connecting to **Amazon Aurora MySQL** using **IAM authentication**, supporting:
 
